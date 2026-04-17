@@ -19,10 +19,10 @@ identify revenue trends, top products, and regional performance.
   programme is strongly recommended
 
 ### Charts
-[Monthly Revenue](charts/monthly_revenue.png)
-[Top Products](charts/top_products.png)
-[Top Countries](charts/top_countries.png)
-[Top Customers](charts/top_customers.png)
+![Monthly Revenue](monthly_revenue.png)
+![Top Products](top_products.png)
+![Top Countries](top_countries.png)
+![Top Customers](top_customers.png)
 
 ### Dataset
 Online Retail Dataset from Kaggle
